@@ -50,7 +50,7 @@ h1 {
 
 /* Fondo decorativo */
 .hero {
-    background-image: url(https://github.com/Carlos-4525/carlos-pagina-/blob/main/background.png);
+    background-image: url(https://github.com/Carlos-4525/carlos-pagina-/blob/main/background.jpg);
     background-size: cover;
     background-position: center;
     background-color: var(--color-secundario); /* Se mostrará mientras carga la imagen */
