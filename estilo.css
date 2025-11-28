@@ -50,7 +50,7 @@ h1 {
 
 /* Fondo decorativo */
 .hero {
-    background-image: url(https://github.com/GusPinkman/Gustavo-Adolfo-Alpaca-Ticona/blob/main/background.jpg?raw=true);
+    background-image: url(https://github.com/Carlos-4525/carlos-pagina-/blob/main/background.png);
     background-size: cover;
     background-position: center;
     background-color: var(--color-secundario); /* Se mostrará mientras carga la imagen */
